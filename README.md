@@ -10,29 +10,29 @@
 <h2>Certificados</h2>
 <h3>- Mastermind</h3>
 <table>
-    <tr style="border-style:none">
-        <td colspan="2" style="border-style:none">
-            <a href="https://www.mastermind.ac/certificates/byfseimkv">Aprende a programar con Python</a>
+    <tr>
+        <td>
+            <a href="https://www.mastermind.ac/certificates/byfseimkvn">Aprende a programar con Python</a>
         </td>
     </tr>
-    <tr style="border-style:none">
-        <td colspan="2" style="border-style:none">
+    <tr>
+        <td>
             <a href="https://www.mastermind.ac/certificates/5ma3dwll0e">Crea páginas web con HTML y CSS</a>
         </td>
     </tr>
-    <tr style="border-style:none">
-        <td colspan="2" style="border-style:none">
+    <tr>
+        <td>
             <a href="https://www.mastermind.ac/certificates/tdsvv3w6jy">Todo sobre la web con PHP</a>
         </td>
     </tr>
 </table>
 <h3>- Cisco Networking Academy</h3>
 <table>
-    <tr style="border-style:none">
-        <td style="border-style:none">
+    <tr>
+        <td>
             <a href="https://www.credly.com/badges/ef1dd2b7-cafe-4dc4-9456-4dfc6796f3ae/public_url"><img height="100px" width="100px" src=".\ccna-introduction-to-networks.png"></a>
         </td>
-        <td style="border-style:none">
+        <td>
             <a href="https://www.credly.com/badges/8f6407ee-53fc-49ea-beff-4da406cb088e/public_url"><img height="100px" width="100px" src=".\ccna-switching-routing-and-wireless-essentials.1.png"></a>
         </td>
     </tr>
