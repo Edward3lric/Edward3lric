@@ -10,6 +10,9 @@
 <h2>Tecnologias</h2>
 
 Lenguajes de programación: Java, Python y JavaScript.
+
 Desarrollo Web: HTML, CSS y Bootstrap.
+
 Base de datos: MySQL.
+
 Control de versiones: Git y GitHub.
